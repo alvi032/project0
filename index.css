@@ -1,36 +1,42 @@
-nav>div>ul>li{
+nav > div > ul > li {
     font-size: 18px;
 }
-nav li{
+
+nav li {
     margin-left: 30px;
 }
-.logo{
+
+.logo {
 
     max-width: 15%;
     padding-top: 15px;
 }
-.slogan{
+
+.slogan {
     color: #2686ff;
     background-color: transparent;
     font-size: 16px;
     font-weight: lighter;
 }
-h2{
-    text-align:center;
+
+h2 {
+    text-align: center;
     font-weight: lighter;
     padding-top: 50px;
 }
-.web\&graphic{
-    max-width:60%;
+
+.web\&graphic {
+    max-width: 60%;
     border-radius: 15px;
 
 }
-.web\&graphic:hover{
 
-    max-width:60%;
+.web\&graphic:hover {
+
+    max-width: 60%;
 }
 
-.container ul{
+.container ul {
 
     list-style-type: none;
     margin-right: auto;
@@ -40,16 +46,18 @@ h2{
 
 }
 
-#teamimg{
+#teamimg {
     max-width: 80%;
     border-radius: 15px;
     margin-top: 50px;
 }
-div h1{
+
+div h1 {
     color: #2686ff;
     padding-top: 50px;
 }
-.contact{
+
+.contact {
 
 
     max-width: 75px;
@@ -57,11 +65,13 @@ div h1{
     display: inline-block;
 
 }
-.contactinfo{
+
+.contactinfo {
 
     display: inline-block;
     padding: 35px;
 }
-#cont{
+
+#cont {
     text-align: right;
 }
