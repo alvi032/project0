@@ -7,6 +7,7 @@ nav li{
 .logo{
 
     max-width: 15%;
+    padding-top: 15px;
 }
 .slogan{
     color: #2686ff;
@@ -14,4 +15,53 @@ nav li{
     font-size: 16px;
     font-weight: lighter;
 }
+h2{
+    text-align:center;
+    font-weight: lighter;
+    padding-top: 50px;
+}
+.web\&graphic{
+    max-width:60%;
+    border-radius: 15px;
 
+}
+.web\&graphic:hover{
+
+    max-width:60%;
+}
+
+.container ul{
+
+    list-style-type: none;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px 0;
+    margin: 0;
+
+}
+
+#teamimg{
+    max-width: 80%;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+div h1{
+    color: #2686ff;
+    padding-top: 50px;
+}
+.contact{
+
+
+    max-width: 75px;
+    margin-top: 20px;
+    display: inline-block;
+
+}
+.contactinfo{
+
+    display: inline-block;
+    padding: 35px;
+}
+#cont{
+    text-align: right;
+}
